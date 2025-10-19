@@ -18,7 +18,6 @@ This example showcases **agentic AI** that:
 ## 🚀 Key Features
 
 ### Agentic Approach 
-- **Goal-oriented tasks** - "Analyze my portfolio" not "Step 1, Step 2, Step 3..."
 - **AI autonomy** - Agent decides HOW to solve problems
 - **Dynamic code generation** - Writes code on the fly based on context
 - **True intelligence** - Reasoning + action, not just scripted workflows
@@ -99,7 +98,7 @@ The project includes 6 example scripts demonstrating different capabilities:
 **8 goal-oriented tasks** demonstrating autonomous code execution:
 
 **Agentic Pattern:**
-- ✅ New: "GOAL: Analyze my sales and predict January"
+- "GOAL: Analyze my sales and predict January"
 
 **Tasks:**
 - 💼 Sales analysis & prediction (Python)
@@ -211,7 +210,7 @@ python 3-example-stock-analyst.py
 - 🤖 **True autonomy** - AI decides how to fetch and analyze
 
 **Agentic Pattern:**
-- ✅ New: "GOAL: Analyze my crypto portfolio with live prices"
+- "GOAL: Analyze my crypto portfolio with live prices"
 - AI figures out: API endpoint, data parsing, calculations
 
 **2 Autonomous Tasks:**
