@@ -6,14 +6,7 @@ A complete working example integrating [Datapizza AI](https://docs.datapizza.ai/
 
 ## 🌟 What This Does
 
-This example showcases **agentic AI** that:
-
-- 🎯 **Goal-oriented** - Give it a goal, AI figures out how to achieve it
-- 🤖 **Autonomous** - Writes its own code without step-by-step instructions
-- 💻 **Multi-language** - Executes Python, JavaScript, and Bash autonomously
-- 🌐 **Internet-enabled** - Fetches real data from live APIs
-- 🔒 **Secure** - All code runs in isolated Cognitora sandbox
-- 🚀 **Production-ready** - Patterns used in real AI applications
+This example showcases **agentic AI** that autonomously writes and executes code in Python, JavaScript, and Bash to achieve goals you give it. The AI figures out how to solve problems without step-by-step instructions, can fetch real data from live APIs, and runs securely in an isolated Cognitora sandbox using production-ready patterns.
 
 ## 🚀 Key Features
 
