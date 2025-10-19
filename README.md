@@ -99,7 +99,6 @@ The project includes 6 example scripts demonstrating different capabilities:
 **8 goal-oriented tasks** demonstrating autonomous code execution:
 
 **Agentic Pattern:**
-- ❌ Old: "Write code to: 1. Import X, 2. Call API, 3. Parse..."
 - ✅ New: "GOAL: Analyze my sales and predict January"
 
 **Tasks:**
@@ -212,7 +211,6 @@ python 3-example-stock-analyst.py
 - 🤖 **True autonomy** - AI decides how to fetch and analyze
 
 **Agentic Pattern:**
-- ❌ Old: "Step 1: Import urllib, Step 2: Call API..."
 - ✅ New: "GOAL: Analyze my crypto portfolio with live prices"
 - AI figures out: API endpoint, data parsing, calculations
 
